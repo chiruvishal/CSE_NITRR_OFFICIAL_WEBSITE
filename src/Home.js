@@ -58,7 +58,7 @@ function Header() {
       <Faculty />
       <Placements />
       <Reseacrh title={'RESEARCH AND PUBLICATIONS'} />
-      <Owl />
+      /*<Owl />*/
       <Gallary />
       <Post />
       <Gallary1 />
