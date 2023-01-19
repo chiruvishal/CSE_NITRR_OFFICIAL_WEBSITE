@@ -121,10 +121,9 @@
   color: white;
 }
 .rec-dot_active {
-  color: white !important;
-  background-color: white !important;
-  box-shadow: white !important;
-  box-shadow: 0 0 1px 3px white !important;
+  background-color: maroon !important;
+  box-shadow: maroon !important;
+  box-shadow: 0 0 1px 3px maroon !important;
 }
 .rec-pagination {
   color: white;
